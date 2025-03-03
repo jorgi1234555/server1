@@ -1,0 +1,27 @@
+#Use the dates used for pumpkin placement for the whole event. This means that villagers will only trick or treat during that period. Leave to false to have it active year round.Note that the new behaviors might not kick in instantly after the start date and you might need to log out of the world
+seasonal = false
+
+[pumpkin_placement_start]
+	#Day from which villagers will start placing pumpkins
+	#Range: 1 ~ 12
+	month = 10
+	#Day from which villagers will start placing pumpkins
+	#Range: 1 ~ 31
+	day = 20
+
+[pumpkin_placement_end]
+	#Day from which villagers will start removing placed pumpkins
+	#Range: 1 ~ 12
+	month = 11
+	#Day from which villagers will start removing placed pumpkins
+	#Range: 1 ~ 31
+	day = 10
+
+[trick_or_treating]
+	#Time of day at which baby villagers will start trick-or-treating
+	#Range: 0 ~ 24000
+	start_time = 12000
+	#Time of day at which baby villagers will stop trick-or-treating. Note that this will only properly work if it's at night since baby villagers can only trick or treat during their sleep schedule which is from 12000 to 0
+	#Range: 0 ~ 24000
+	end_time = 0
+

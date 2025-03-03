@@ -1,0 +1,211 @@
+
+#----------------------------------------|| Armor settings ||---------------------------------------
+[armor_properties]
+
+	[armor_properties.iron_plate]
+		#DurabilityFactor is multiplied with a value that depends on the armor part (between 11 and 16) to get the total durability :
+		#Range: 1 ~ 1000
+		iron_plate_durability_factor = 25
+		#Helmet damage reduction :
+		#Range: 1 ~ 100
+		iron_plate_defense_helmet = 3
+		#Chest damage reduction :
+		#Range: 1 ~ 100
+		iron_plate_defense_chest = 9
+		#Legs damage reduction :
+		#Range: 1 ~ 100
+		iron_plate_defense_legs = 7
+		#Feet damage reduction :
+		#Range: 1 ~ 100
+		iron_plate_defense_feet = 3
+		#This armor's enchantability :
+		#Range: 1 ~ 100
+		iron_plate_enchantability = 6
+		#This armor's toughness :
+		#Range: 0.0 ~ 100.0
+		iron_plate_toughness = 0.0
+
+	[armor_properties.holy]
+		#DurabilityFactor is multiplied with a value that depends on the armor part (between 11 and 16) to get the total durability :
+		#Range: 1 ~ 1000
+		holy_durability_factor = 40
+		#Helmet damage reduction :
+		#Range: 1 ~ 100
+		holy_defense_helmet = 4
+		#Chest damage reduction :
+		#Range: 1 ~ 100
+		holy_defense_chest = 10
+		#Legs damage reduction :
+		#Range: 1 ~ 100
+		holy_defense_legs = 8
+		#Feet damage reduction :
+		#Range: 1 ~ 100
+		holy_defense_feet = 4
+		#This armor's enchantability :
+		#Range: 1 ~ 100
+		holy_enchantability = 4
+		#This armor's toughness :
+		#Range: 0.0 ~ 100.0
+		holy_toughness = 2.0
+
+	[armor_properties.japanese_light]
+		#DurabilityFactor is multiplied with a value that depends on the armor part (between 11 and 16) to get the total durability :
+		#Range: 1 ~ 1000
+		japanese_light_durability_factor = 12
+		#Helmet damage reduction :
+		#Range: 1 ~ 100
+		japanese_light_defense_helmet = 2
+		#Chest damage reduction :
+		#Range: 1 ~ 100
+		japanese_light_defense_chest = 7
+		#Legs damage reduction :
+		#Range: 1 ~ 100
+		japanese_light_defense_legs = 6
+		#Feet damage reduction :
+		#Range: 1 ~ 100
+		japanese_light_defense_feet = 2
+		#This armor's enchantability :
+		#Range: 1 ~ 100
+		japanese_light_enchantability = 10
+		#This armor's toughness :
+		#Range: 0.0 ~ 100.0
+		japanese_light_toughness = 0.0
+
+	[armor_properties.o_yoroi]
+		#DurabilityFactor is multiplied with a value that depends on the armor part (between 11 and 16) to get the total durability :
+		#Range: 1 ~ 1000
+		o_yoroi_durability_factor = 20
+		#Helmet damage reduction :
+		#Range: 1 ~ 100
+		o_yoroi_defense_helmet = 3
+		#Chest damage reduction :
+		#Range: 1 ~ 100
+		o_yoroi_defense_chest = 8
+		#Legs damage reduction :
+		#Range: 1 ~ 100
+		o_yoroi_defense_legs = 6
+		#Feet damage reduction :
+		#Range: 1 ~ 100
+		o_yoroi_defense_feet = 3
+		#This armor's enchantability :
+		#Range: 1 ~ 100
+		o_yoroi_enchantability = 16
+		#This armor's toughness :
+		#Range: 0.0 ~ 100.0
+		o_yoroi_toughness = 2.0
+
+	[armor_properties.raijin]
+		#DurabilityFactor is multiplied with a value that depends on the armor part (between 11 and 16) to get the total durability :
+		#Range: 1 ~ 1000
+		raijin_durability_factor = 35
+		#Helmet damage reduction :
+		#Range: 1 ~ 100
+		raijin_defense_helmet = 3
+		#Chest damage reduction :
+		#Range: 1 ~ 100
+		raijin_defense_chest = 9
+		#Legs damage reduction :
+		#Range: 1 ~ 100
+		raijin_defense_legs = 7
+		#Feet damage reduction :
+		#Range: 1 ~ 100
+		raijin_defense_feet = 3
+		#This armor's enchantability :
+		#Range: 1 ~ 100
+		raijin_enchantability = 26
+		#This armor's toughness :
+		#Range: 0.0 ~ 100.0
+		raijin_toughness = 2.0
+
+	[armor_properties.centurion]
+		#DurabilityFactor is multiplied with a value that depends on the armor part (between 11 and 16) to get the total durability :
+		#Range: 1 ~ 1000
+		centurion_durability_factor = 22
+		#Helmet damage reduction :
+		#Range: 1 ~ 100
+		centurion_defense_helmet = 3
+		#Chest damage reduction :
+		#Range: 1 ~ 100
+		centurion_defense_chest = 7
+		#Legs damage reduction :
+		#Range: 1 ~ 100
+		centurion_defense_legs = 5
+		#Feet damage reduction :
+		#Range: 1 ~ 100
+		centurion_defense_feet = 3
+		#This armor's enchantability :
+		#Range: 1 ~ 100
+		centurion_enchantability = 10
+		#This armor's toughness :
+		#Range: 0.0 ~ 100.0
+		centurion_toughness = 3.0
+
+	[armor_properties.pharaoh]
+		#DurabilityFactor is multiplied with a value that depends on the armor part (between 11 and 16) to get the total durability :
+		#Range: 1 ~ 1000
+		pharaoh_durability_factor = 10
+		#Helmet damage reduction :
+		#Range: 1 ~ 100
+		pharaoh_defense_helmet = 3
+		#Chest damage reduction :
+		#Range: 1 ~ 100
+		pharaoh_defense_chest = 8
+		#Legs damage reduction :
+		#Range: 1 ~ 100
+		pharaoh_defense_legs = 6
+		#Feet damage reduction :
+		#Range: 1 ~ 100
+		pharaoh_defense_feet = 3
+		#This armor's enchantability :
+		#Range: 1 ~ 100
+		pharaoh_enchantability = 37
+		#This armor's toughness :
+		#Range: 0.0 ~ 100.0
+		pharaoh_toughness = 2.0
+
+	[armor_properties.anubis]
+		#DurabilityFactor is multiplied with a value that depends on the armor part (between 11 and 16) to get the total durability :
+		#Range: 1 ~ 1000
+		anubis_durability_factor = 25
+		#Helmet damage reduction :
+		#Range: 1 ~ 100
+		anubis_defense_helmet = 3
+		#Chest damage reduction :
+		#Range: 1 ~ 100
+		anubis_defense_chest = 8
+		#Legs damage reduction :
+		#Range: 1 ~ 100
+		anubis_defense_legs = 6
+		#Feet damage reduction :
+		#Range: 1 ~ 100
+		anubis_defense_feet = 3
+		#This armor's enchantability :
+		#Range: 1 ~ 100
+		anubis_enchantability = 52
+		#This armor's toughness :
+		#Range: 0.0 ~ 100.0
+		anubis_toughness = 3.0
+
+	[armor_properties.quetzalcoatl]
+		#DurabilityFactor is multiplied with a value that depends on the armor part (between 11 and 16) to get the total durability :
+		#Range: 1 ~ 1000
+		quetzalcoatl_durability_factor = 25
+		#Helmet damage reduction :
+		#Range: 1 ~ 100
+		quetzalcoatl_defense_helmet = 2
+		#Chest damage reduction :
+		#Range: 1 ~ 100
+		quetzalcoatl_defense_chest = 6
+		#Legs damage reduction :
+		#Range: 1 ~ 100
+		quetzalcoatl_defense_legs = 5
+		#Feet damage reduction :
+		#Range: 1 ~ 100
+		quetzalcoatl_defense_feet = 2
+		#This armor's enchantability :
+		#Range: 1 ~ 100
+		quetzalcoatl_enchantability = 20
+		#This armor's toughness :
+		#Range: 0.0 ~ 100.0
+		quetzalcoatl_toughness = 6.0
+
